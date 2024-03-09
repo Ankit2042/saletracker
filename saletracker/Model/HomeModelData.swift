@@ -28,7 +28,10 @@ struct Homedata {
         HomeModelData(name: "Test 6", active: 4, won: 0, lost: 7),
         HomeModelData(name: "Test 7", active: 8, won: 0, lost: 0),
         HomeModelData(name: "Test 8", active: 6, won: 0, lost: 0),
-        HomeModelData(name: "Test 9", active: 3, won: 0, lost: 0)
+        HomeModelData(name: "Test 9", active: 3, won: 0, lost: 0),
+        HomeModelData(name: "Demo 1", active: 3, won: 0, lost: 0),
+        HomeModelData(name: "Demo 2", active: 3, won: 0, lost: 0),
+        HomeModelData(name: "Demo 3", active: 3, won: 0, lost: 0)
     
     ]
 }
